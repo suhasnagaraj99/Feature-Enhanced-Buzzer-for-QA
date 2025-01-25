@@ -4,6 +4,20 @@ This repository extends a QA “Buzzer” system with new **feature engineering*
 
 ---
 
+## Environment Setup
+
+1. **Create and activate a virtual environment** (recommended):
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate
+   ```
+2. **Install Dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+---
+   
 ## Features Added
 
 My feature engineering focuses on signals that help a **logistic regression** buzzer determine correctness more reliably:
@@ -107,8 +121,9 @@ My feature engineering focuses on signals that help a **logistic regression** bu
 
 ---
 
-### Final Note
-The features detailed above significantly improved the Buzzer’s performance. You can tweak or combine them further, or introduce entirely new concepts for even better results.
+### Note
+- The features detailed above significantly improved the Buzzer’s performance. You can tweak or combine them further, or introduce entirely new concepts for even better results.
+- Before running the scripts, ensure that all required files are located in relative paths consistent with the command-line arguments
 
 ### Acknowledgement
 
