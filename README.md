@@ -125,6 +125,11 @@ My feature engineering focuses on signals that help a **logistic regression** bu
 - The features detailed above significantly improved the Buzzer’s performance. You can tweak or combine them further, or introduce entirely new concepts for even better results.
 - Before running the scripts, ensure that all required files are located in relative paths consistent with the command-line arguments
 
-### Acknowledgement
+## Acknowledgement
 
 I extend my sincere gratitude to Professor Jordan Boyd-Graber for providing the foundational project files and resources for this CMSC723 assignment. His work and support have been instrumental in enabling the feature engineering and development efforts showcased in this repository.
+
+## Attribution
+The original problems were provided as part of the course:
+- Course: Natural Language Processing [CL1-HW](https://github.com/Pinafore/cl1-hw)
+- License: CC-BY 4.0 [Link](https://creativecommons.org/licenses/by/4.0/legalcode)
